@@ -10,6 +10,11 @@ This project is a voice assistant built with Python that:
 - ✅ Plays the generated voice response out loud  
 
 ---
+## 📷 Preview
+
+https://github.com/user-attachments/assets/14955af2-0fca-406f-ac05-8f68c98b7ef2
+
+
 
 ## 🛠️ Features
 
