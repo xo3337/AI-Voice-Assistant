@@ -11,8 +11,9 @@ This project is a voice assistant built with Python that:
 
 ---
 ## 📷 Preview
+https://github.com/user-attachments/assets/d783c76b-bf15-4e4a-8ade-dc7e26ff3611
 
-https://github.com/user-attachments/assets/14955af2-0fca-406f-ac05-8f68c98b7ef2
+
 
 
 
